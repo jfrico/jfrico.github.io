@@ -1,0 +1,14 @@
+#app {
+    /*width: 700px;*/
+    /*height: 400px;*/
+
+    padding: 10px 20px 30px 40px;
+
+    /*border: dotted 5px;*/
+    /*border-style: dotted;
+    border-width: 1em;*/
+
+    margin: 10px 20px 30px 40px;
+
+    background-color: grey; /* the background includes content, padding and border */
+}

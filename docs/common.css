@@ -1,0 +1,13 @@
+/* common css style that apply to all projects */
+
+
+/* reset box sizing model to account for border and padding,
+   not just content when setting width or height */
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+
+.center {
+    margin: 0 auto;
+}
